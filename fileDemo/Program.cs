@@ -40,6 +40,8 @@ namespace fileDemo
                 sw.Close();
 
             }
+
+            Console.ReadLine();
         }
     }
 }
